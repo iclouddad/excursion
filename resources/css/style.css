@@ -22,3 +22,13 @@ h2 {
   font-size: 42px;
   color: white;
 }
+h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
